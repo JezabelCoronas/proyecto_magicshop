@@ -1,0 +1,1628 @@
+INFO - 2024-06-13 00:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 00:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 00:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 00:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 00:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 02:20:52 --> Invalid file: "ventas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ventas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ventas/index', [], true)
+ 3 APPPATH\Controllers\venta_controller.php(27): view('ventas/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 02:21:17 --> Invalid file: "ventas/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ventas/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ventas/index', [], true)
+ 3 APPPATH\Controllers\venta_controller.php(27): view('ventas/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 02:22:49 --> Invalid file: "ventas/ventas_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ventas/ventas_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ventas/ventas_view', [], true)
+ 3 APPPATH\Controllers\venta_controller.php(27): view('ventas/ventas_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 02:22:51 --> Invalid file: "ventas/ventas_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ventas/ventas_view.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ventas/ventas_view', [], true)
+ 3 APPPATH\Controllers\venta_controller.php(27): view('ventas/ventas_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 02:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 02:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:29 --> Cart Class Initialized
+INFO - 2024-06-13 03:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:33 --> Cart Class Initialized
+INFO - 2024-06-13 03:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:38 --> Cart Class Initialized
+INFO - 2024-06-13 03:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:38 --> Cart Class Initialized
+INFO - 2024-06-13 03:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:29:51 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:25 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:25 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:28 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:32 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:32 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:37 --> Cart Class Initialized
+INFO - 2024-06-13 03:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 03:30:42 --> require(C:\xampp\htdocs\coronas\app\Controllers/carrito_controller.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\venta_controller.php on line 36.
+ 1 APPPATH\Controllers\venta_controller.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xampp\\htdocs\\coronas\\app\\Controllers/carrito_controller.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 36)
+ 2 APPPATH\Controllers\venta_controller.php(36): require()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:30:51 --> Cart Class Initialized
+INFO - 2024-06-13 03:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 03:31:10 --> require(C:\xampp\htdocs\coronas\app\Controllers/carrito_controller.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\venta_controller.php on line 36.
+ 1 APPPATH\Controllers\venta_controller.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xampp\\htdocs\\coronas\\app\\Controllers/carrito_controller.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 36)
+ 2 APPPATH\Controllers\venta_controller.php(36): require()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:31:20 --> Cart Class Initialized
+INFO - 2024-06-13 03:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:32:04 --> Cart Class Initialized
+INFO - 2024-06-13 03:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:32:07 --> Cart Class Initialized
+CRITICAL - 2024-06-13 03:32:07 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(55): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:32:13 --> Cart Class Initialized
+INFO - 2024-06-13 03:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:33:17 --> Cart Class Initialized
+CRITICAL - 2024-06-13 03:33:17 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(55): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:34:14 --> Cart Class Initialized
+INFO - 2024-06-13 03:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 03:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 03:43:52 --> Class "App\Controllers\detalle_venta_Model" not found
+in APPPATH\Controllers\venta_controller.php on line 114.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:44:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 03:44:15 --> mysqli_sql_exception: Unknown column 'id_cliente' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 03:44:15 --> Unknown column 'id_cliente' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `id_cliente` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `id_cliente` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `id_cliente` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `id_cliente` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 03:44:35 --> mysqli_sql_exception: Unknown column 'id_usuario' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 03:44:35 --> Unknown column 'id_usuario' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `id_usuario` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `id_usuario` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `id_usuario` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `id_usuario` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 03:44:52 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 03:44:52 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 03:46:43 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(120): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 03:46:43 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(120): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 03:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 03:56:49 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(121): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 03:56:49 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(121): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 11:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 11:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 12:14:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 13:24:59 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 13:24:59 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 13:25:23 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 13:25:23 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:28 --> Cart Class Initialized
+INFO - 2024-06-13 13:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:32 --> Cart Class Initialized
+INFO - 2024-06-13 13:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:36 --> Cart Class Initialized
+INFO - 2024-06-13 13:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:36 --> Cart Class Initialized
+INFO - 2024-06-13 13:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:39 --> Cart Class Initialized
+INFO - 2024-06-13 13:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:49 --> Cart Class Initialized
+CRITICAL - 2024-06-13 13:25:50 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:25:55 --> Cart Class Initialized
+INFO - 2024-06-13 13:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 13:31:48 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 13:31:48 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:02 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:06 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:07 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:10 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:14 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:14 --> Cart Class Initialized
+INFO - 2024-06-13 13:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:32:17 --> Cart Class Initialized
+INFO - 2024-06-13 13:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:33:28 --> Cart Class Initialized
+INFO - 2024-06-13 13:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:34:10 --> Cart Class Initialized
+INFO - 2024-06-13 13:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:34:27 --> Cart Class Initialized
+INFO - 2024-06-13 13:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:37:10 --> Cart Class Initialized
+INFO - 2024-06-13 13:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:41:48 --> Cart Class Initialized
+INFO - 2024-06-13 13:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:41:49 --> Cart Class Initialized
+INFO - 2024-06-13 13:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:42:57 --> Cart Class Initialized
+INFO - 2024-06-13 13:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:43:02 --> Cart Class Initialized
+INFO - 2024-06-13 13:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:43:03 --> Cart Class Initialized
+INFO - 2024-06-13 13:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:43:46 --> Cart Class Initialized
+INFO - 2024-06-13 13:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:43:51 --> Cart Class Initialized
+INFO - 2024-06-13 13:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:43:51 --> Cart Class Initialized
+INFO - 2024-06-13 13:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:52:41 --> Cart Class Initialized
+INFO - 2024-06-13 13:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:52:42 --> Cart Class Initialized
+INFO - 2024-06-13 13:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:54:37 --> Cart Class Initialized
+CRITICAL - 2024-06-13 13:54:37 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:54:53 --> Cart Class Initialized
+CRITICAL - 2024-06-13 13:54:53 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:55:07 --> Cart Class Initialized
+INFO - 2024-06-13 13:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:55:11 --> Cart Class Initialized
+CRITICAL - 2024-06-13 13:55:11 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:58:54 --> Cart Class Initialized
+CRITICAL - 2024-06-13 13:58:54 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 24.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:23 --> Cart Class Initialized
+INFO - 2024-06-13 13:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 13:59:29 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 13:59:30 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 13:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:32 --> Cart Class Initialized
+INFO - 2024-06-13 13:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:34 --> Cart Class Initialized
+INFO - 2024-06-13 13:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:38 --> Cart Class Initialized
+INFO - 2024-06-13 13:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:38 --> Cart Class Initialized
+INFO - 2024-06-13 13:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 13:59:41 --> Cart Class Initialized
+INFO - 2024-06-13 14:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 14:05:14 --> Cart Class Initialized
+CRITICAL - 2024-06-13 14:05:14 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 10.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 10)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 14:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 14:47:58 --> Cart Class Initialized
+CRITICAL - 2024-06-13 14:48:02 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:01 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:02 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:07 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:07 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:08 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:26 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:27 --> Cart Class Initialized
+INFO - 2024-06-13 15:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:33 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:24:33 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 15:24:54 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 15:24:54 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:24:59 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:24:59 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:27:36 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:27:36 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:32:56 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:32:56 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:32:58 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:32:58 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:32:58 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:32:58 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:32:59 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:32:59 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:00 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:00 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:01 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:01 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:01 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:01 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:03 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:03 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 15:33:33 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 15:33:33 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:37 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:37 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:40 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:40 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:33:55 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:33:55 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:09 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:34:09 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:34:26 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:34:26 --> Undefined variable $producto
+in APPPATH\Views\backend\carrito\carrito_view.php on line 9.
+ 1 APPPATH\Views\backend\carrito\carrito_view.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\carrito\\carrito_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito/carrito_view', [], true)
+ 5 APPPATH\Controllers\cart_controller.php(101): view('backend/carrito/carrito_view')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\cart_controller->muestra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\cart_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:38:51 --> Cart Class Initialized
+INFO - 2024-06-13 15:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:39:19 --> Cart Class Initialized
+INFO - 2024-06-13 15:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:39:24 --> Cart Class Initialized
+INFO - 2024-06-13 15:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:39:25 --> Cart Class Initialized
+INFO - 2024-06-13 15:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:39:29 --> Cart Class Initialized
+INFO - 2024-06-13 15:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:40:06 --> Cart Class Initialized
+INFO - 2024-06-13 15:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:40:23 --> Cart Class Initialized
+INFO - 2024-06-13 15:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:41:09 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:41:09 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:41:12 --> Cart Class Initialized
+INFO - 2024-06-13 15:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:41:29 --> Cart Class Initialized
+CRITICAL - 2024-06-13 15:41:29 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:42:04 --> Cart Class Initialized
+INFO - 2024-06-13 15:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:45:02 --> Cart Class Initialized
+INFO - 2024-06-13 15:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 15:45:56 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 15:45:56 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 15:50:15 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 15:50:15 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 15:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 15:54:43 --> Cart Class Initialized
+INFO - 2024-06-13 16:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 16:07:00 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 16:07:00 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 16:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:07:03 --> Cart Class Initialized
+INFO - 2024-06-13 16:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:07:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 16:07:19 --> Undefined variable $venta
+in APPPATH\Controllers\venta_controller.php on line 24.
+ 1 APPPATH\Controllers\venta_controller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 16:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 16:07:49 --> Undefined variable $venta
+in APPPATH\Controllers\venta_controller.php on line 24.
+ 1 APPPATH\Controllers\venta_controller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 16:08:29 --> Undefined variable $venta
+in APPPATH\Controllers\venta_controller.php on line 24.
+ 1 APPPATH\Controllers\venta_controller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 16:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 16:08:44 --> Undefined array key "id"
+in APPPATH\Controllers\venta_controller.php on line 24.
+ 1 APPPATH\Controllers\venta_controller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 16:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:09 --> Cart Class Initialized
+INFO - 2024-06-13 16:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:12 --> Cart Class Initialized
+INFO - 2024-06-13 16:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:16 --> Cart Class Initialized
+INFO - 2024-06-13 16:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:16 --> Cart Class Initialized
+INFO - 2024-06-13 16:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:21 --> Cart Class Initialized
+INFO - 2024-06-13 16:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:24 --> Cart Class Initialized
+CRITICAL - 2024-06-13 16:34:24 --> There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 762.
+ 1 SYSTEMPATH\BaseModel.php(762): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 16:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 16:34:29 --> Cart Class Initialized
+INFO - 2024-06-13 17:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 17:06:53 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 17:06:54 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(122): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:25 --> Cart Class Initialized
+INFO - 2024-06-13 21:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:31 --> Cart Class Initialized
+INFO - 2024-06-13 21:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:35 --> Cart Class Initialized
+INFO - 2024-06-13 21:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:35 --> Cart Class Initialized
+INFO - 2024-06-13 21:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:22:38 --> Cart Class Initialized
+INFO - 2024-06-13 21:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 21:22:41 --> syntax error, unexpected variable "$venta_id"
+in APPPATH\Controllers\venta_controller.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\venta_controller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\venta_controller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\venta_controller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:24:51 --> Cart Class Initialized
+CRITICAL - 2024-06-13 21:24:51 --> Undefined variable $nuevaVenta
+in APPPATH\Controllers\venta_controller.php on line 57.
+ 1 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nuevaVenta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:25:09 --> Cart Class Initialized
+CRITICAL - 2024-06-13 21:25:09 --> Undefined variable $nuevaVenta
+in APPPATH\Controllers\venta_controller.php on line 57.
+ 1 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nuevaVenta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:25:50 --> Cart Class Initialized
+INFO - 2024-06-13 21:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:25:53 --> Cart Class Initialized
+CRITICAL - 2024-06-13 21:25:53 --> Undefined variable $nuevaVenta
+in APPPATH\Controllers\venta_controller.php on line 57.
+ 1 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nuevaVenta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:25:57 --> Cart Class Initialized
+CRITICAL - 2024-06-13 21:25:57 --> Undefined variable $nuevaVenta
+in APPPATH\Controllers\venta_controller.php on line 57.
+ 1 APPPATH\Controllers\venta_controller.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nuevaVenta', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->registrar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 21:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 21:26:53 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:03 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:07 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:11 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:23 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:29 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:32 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:40 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:40 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:45 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:48 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:12:52 --> Cart Class Initialized
+INFO - 2024-06-13 22:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-13 22:12:55 --> mysqli_sql_exception: Unknown column 'usuario_id' in 'where clause' in C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\coronas\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\coronas\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\coronas\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\coronas\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\coronas\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\coronas\app\Controllers\venta_controller.php(123): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\coronas\system\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+#8 C:\xampp\htdocs\coronas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+#9 C:\xampp\htdocs\coronas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\coronas\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-06-13 22:12:55 --> Unknown column 'usuario_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ventas_detalle`
+WHERE `usuario_id` IS NULL
+ORDER BY `id` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\venta_controller.php(123): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:02 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:05 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:10 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:10 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:27 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:31 --> Cart Class Initialized
+INFO - 2024-06-13 22:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:14:37 --> Cart Class Initialized
+INFO - 2024-06-13 22:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:33:30 --> Undefined variable $venta
+in APPPATH\Views\backend\ventas\mis_compras_view.php on line 15.
+ 1 APPPATH\Views\backend\ventas\mis_compras_view.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\mis_compras_view.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\mis_compras_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/ventas/mis_compras_view', [], true)
+ 5 APPPATH\Controllers\venta_controller.php(129): view('backend/ventas/mis_compras_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->listar_ventas()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:36:30 --> Undefined array key "fecha"
+in APPPATH\Views\backend\ventas\ventas_view.php on line 5.
+ 1 APPPATH\Views\backend\ventas\ventas_view.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha"', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\ventas_view.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\ventas_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/ventas/ventas_view', [], true)
+ 5 APPPATH\Controllers\venta_controller.php(30): view('backend/ventas/ventas_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:39:02 --> Undefined array key "usuario_id"
+in APPPATH\Views\backend\ventas\ventas_view.php on line 6.
+ 1 APPPATH\Views\backend\ventas\ventas_view.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario_id"', 'C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\ventas_view.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\coronas\\app\\Views\\backend\\ventas\\ventas_view.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/ventas/ventas_view', [], true)
+ 5 APPPATH\Controllers\venta_controller.php(30): view('backend/ventas/ventas_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:42:35 --> Undefined array key "id"
+in APPPATH\Controllers\venta_controller.php on line 25.
+ 1 APPPATH\Controllers\venta_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 22:43:49 --> Undefined array key "venta_id"
+in APPPATH\Controllers\venta_controller.php on line 25.
+ 1 APPPATH\Controllers\venta_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "venta_id"', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-06-13 22:44:13 --> Undefined array key "producto_id"
+in APPPATH\Controllers\venta_controller.php on line 25.
+ 1 APPPATH\Controllers\venta_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "producto_id"', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:50:48 --> Undefined array key "id"
+in APPPATH\Controllers\venta_controller.php on line 25.
+ 1 APPPATH\Controllers\venta_controller.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\coronas\\app\\Controllers\\venta_controller.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\venta_controller->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\venta_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 22:56:35 --> unlink(C:\xampp\htdocs\coronas\writable\debugbar/debugbar_1718316850.248714.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 76.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\coronas\\writable\\debugbar/debugbar_1718316850.248714.json): No such file or directory', 'C:\\xampp\\htdocs\\coronas\\system\\Debug\\Toolbar\\Collectors\\History.php', 76)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(76): unlink('C:\\xampp\\htdocs\\coronas\\writable\\debugbar/debugbar_1718316850.248714.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(497): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1718319391.440765', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(474): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(46): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(350): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-06-13 22:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 22:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 23:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,143 @@
+CRITICAL - 2023-04-25 01:45:09 --> Invalid file: "terminos_condiciones.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('terminos_condiciones.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('terminos_condiciones', [], true)
+ 3 APPPATH\Controllers\Home.php(29): view('terminos_condiciones')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarTerminosCondiciones()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 01:45:48 --> Invalid file: "terminos_condiciones.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('terminos_condiciones.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('terminos_condiciones', [], true)
+ 3 APPPATH\Controllers\Home.php(29): view('terminos_condiciones')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarTerminosUsos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 03:30:28 --> Undefined constant "nueva_plantilla"
+in APPPATH\Views\quienes_somos.php on line 33.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quienes_somos', [], true)
+ 4 APPPATH\Controllers\Home.php(17): view('quienes_somos')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarQuienesSomos()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 03:32:07 --> CodeIgniter\Router\RouteCollection::get(): Argument #3 ($options) must be of type ?array, string given, called in C:\xampp\htdocs\proyecto_coronas_jezabel\app\Config\Routes.php on line 34
+in SYSTEMPATH\Router\RouteCollection.php on line 915.
+ 1 APPPATH\Config\Routes.php(34): CodeIgniter\Router\RouteCollection->get('/', 'Home::index', 'nueva_plantilla')
+ 2 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\proyecto_coronas_jezabel\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 03:32:10 --> CodeIgniter\Router\RouteCollection::get(): Argument #3 ($options) must be of type ?array, string given, called in C:\xampp\htdocs\proyecto_coronas_jezabel\app\Config\Routes.php on line 34
+in SYSTEMPATH\Router\RouteCollection.php on line 915.
+ 1 APPPATH\Config\Routes.php(34): CodeIgniter\Router\RouteCollection->get('/', 'Home::index', 'nueva_plantilla')
+ 2 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\proyecto_coronas_jezabel\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:52:07 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:52:07 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:52:32 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:55:11 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:55:16 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:55:17 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:55:18 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:56:23 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:56:26 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:57:19 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(35): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 06:57:39 --> Invalid file: "comercializacion.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('comercializacion.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('comercializacion', [], true)
+ 3 APPPATH\Controllers\Home.php(22): view('comercializacion')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarComercializacion()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

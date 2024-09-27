@@ -1,0 +1,27 @@
+CRITICAL - 2024-04-07 00:31:39 --> Invalid file: "quienes_somos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quienes_somos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quienes_somos', [], true)
+ 3 APPPATH\Controllers\Home.php(23): view('quienes_somos')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarQuienesSomos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-07 00:38:10 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(49): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-07 00:38:10 --> Invalid file: "contacto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto', [], true)
+ 3 APPPATH\Controllers\Home.php(49): view('contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarContacto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

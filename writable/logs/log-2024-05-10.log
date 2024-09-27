@@ -1,0 +1,25 @@
+CRITICAL - 2024-05-10 05:05:04 --> Invalid file: "backend/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/login', [], true)
+ 3 APPPATH\Controllers\Home.php(57): view('backend/login')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-10 18:02:47 --> Invalid file: "backend/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/login', [], true)
+ 3 APPPATH\Controllers\Home.php(57): view('backend/login')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-10 18:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-10 18:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

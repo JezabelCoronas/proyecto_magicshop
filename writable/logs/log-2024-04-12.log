@@ -1,0 +1,90 @@
+CRITICAL - 2024-04-12 02:53:00 --> syntax error, unexpected identifier "catalogo_productos", expecting ")"
+in APPPATH\Views\plantillas\navbar.php on line 33.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('plantillas/navbar', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('plantillas/navbar')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 02:54:01 --> syntax error, unexpected identifier "otros", expecting ")"
+in APPPATH\Views\plantillas\navbar.php on line 33.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('plantillas/navbar', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('plantillas/navbar')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 02:57:47 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 02:58:59 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 02:59:57 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 03:00:08 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 03:00:43 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 03:00:52 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 18:17:32 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-12 18:18:05 --> Invalid file: "frontend/catalogo_productos/auriculares.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/catalogo_productos/auriculares.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('frontend/catalogo_productos/auriculares', [], true)
+ 3 APPPATH\Controllers\Home.php(77): view('frontend/catalogo_productos/auriculares')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->llamarAuriculares()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

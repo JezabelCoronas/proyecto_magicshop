@@ -1,0 +1,9 @@
+CRITICAL - 2023-04-13 14:05:58 --> Invalid file: "nueva_plantilla.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nueva_plantilla.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('nueva_plantilla.php', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('nueva_plantilla.php')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
